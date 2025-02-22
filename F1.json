@@ -32,6 +32,15 @@
           "text2": "- PROHIBIDO CONSTRUIR EN ISLA HERVIVORA, AHI SE CONSTRUIRA EL MERCADO/CASINO\n\n\n- Solo puedes tener 1 teleport por mapa.\n\n\n- No se puede construir en cuevas con artefactos, spawns de castores o zonas ricas en recursos como metal.\n\n\n- Prohibido construir cualquier tipo de estructura que bloquee los beacons de loot.\n\n\n- No se puede spawnear pilares, cimientos u otra estructura ni alrededor de tu base ni por el mapa pudiendo romper los spawns de los animales.\n\n\n- Todas las estructuras temporales no utilizadas tienen que ser removidas inmediatamente después de cumplir con su propósito (es decir, barricadas, estructuras de domesticación, hoguera, sacos de dormir, etc.)",
           "imageurl": "https://cdn.discordapp.com/attachments/1330499554071675003/1330522287744483408/Team_Vaper.png?ex=67bb1bf1&is=67b9ca71&hm=8a9455909b9576008bdfd698d75557b9db3fd40e194575dfbf5cfbd79147bd51&"
         }
+      },
+      {
+        "tab3": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0.65,0,1\">Consola</>",
+          "title1": "<TextStyle.Violet>Abrir la Tienda de puntos en consola.</>",
+          "text1": "",
+          "imageurl": "https://cdn.discordapp.com/attachments/1330499554071675003/1343005990676594788/PS5.png?ex=67bbb34c&is=67ba61cc&hm=bf93d20b824a59af6746077b39b32e14b2dd36d789225aa9e37c52cc945abf50&"
+        }
       }
     ],
     "links": [
